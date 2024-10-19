@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&theme=tokyonight" />
 </div>
+
 
 ###
 
